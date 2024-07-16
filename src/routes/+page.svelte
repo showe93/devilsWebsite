@@ -1,5 +1,5 @@
 <script lang="ts">
-    import NavBar from "../components/NavBar.svelte"
+    import NavBar from "../components/Navbar.svelte"
     import Footer from "../components/Footer.svelte"
     import Commit from "../components/Commit.svelte"
     import CommitsCard from "../components/CommitsCard.svelte";
