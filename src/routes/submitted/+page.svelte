@@ -1,5 +1,5 @@
 <script lang="typescript">
-    import NavBar from "../../components/NavBar.svelte";
+    import NavBar from "../../components/Navbar.svelte";
     import Footer from "../../components/Footer.svelte";
     import Team from "../../components/Team.svelte";
     import Socials from "../../components/socials.svelte";
