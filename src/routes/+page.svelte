@@ -1,4 +1,4 @@
-<script lang="typescript">
+<script lang="ts">
     import NavBar from "../components/NavBar.svelte"
     import Footer from "../components/Footer.svelte"
     import Commit from "../components/Commit.svelte"
