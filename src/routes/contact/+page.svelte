@@ -19,7 +19,7 @@
         <input type="email" id="email" aria-describedby="helper-text-explanation" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-maroon focus:border-maroon block w-full p-2.5 mb-[25px] " required placeholder="Email">
         <input type="tel" id="tel" aria-describedby="helper-text-explanation" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-maroon focus:border-maroon block w-full p-2.5 mb-[25px] " required placeholder="Phone #">
         <fieldset>
-            <label class="text-white text-2xl">Please select your preferred contact method</label>
+            <div class="text-white text-2xl">Please select your preferred contact method</div>
             <div class="flex items-center mb-4 mt-4" >
             <input id="phonepreffered" type="radio" name="Preferred" value="Phone" class="w-4 h-4 border-gray-300 focus:ring-2 focus:ring-maroon dark:focus:ring-maroon checked:bg-maroon" checked>
             <label for="phone-option" class="block ms-2  text-xl font-medium text-white dark:text-gray-300">
